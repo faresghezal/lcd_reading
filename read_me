@@ -1,1 +1,9 @@
-cd ..
+
+le but du projet est de lire un texte à partir d'un écran lcd.
+pour ce faire, nous avons principalement besoin de deux fonctionnalités : 
+1.lire du texte apartir d'une image 
+2.détecter l'écran LCD
+ce qui suit sont des liens vers des bibliothèque qui permet de lire du texte à partir d'une image:
+https://pypi.org/project/pytesseract/ :
+Python-tesseract est un outil de reconnaissance optique de caractères (OCR) pour Python. Autrement dit, il reconnaîtra et "lira" le texte intégré dans les images.
+Python-tesseract est un wrapper pour le moteur Tesseract-OCR de Google.
